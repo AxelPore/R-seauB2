@@ -51,3 +51,18 @@ Statistiques Ping pour 10.33.73.111:
 Durée approximative des boucles en millisecondes :
     Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
 ```
+
+```
+PS C:\Users\axelp> ping 127.0.0.1
+
+Envoi d’une requête 'Ping'  127.0.0.1 avec 32 octets de données :
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+
+Statistiques Ping pour 127.0.0.1:
+    Paquets : envoyés = 4, reçus = 4, perdus = 0 (perte 0%),
+Durée approximative des boucles en millisecondes :
+    Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
+```
