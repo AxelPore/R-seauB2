@@ -18,7 +18,7 @@
    Serveur DHCP . . . . . . . . . . . . . : 10.33.79.254\
    Serveurs DNS. . .  . . . . . . . . . . : 8.8.8.8\
                                        1.1.1.1
-   NetBIOS sur Tcpip. . . . . . . . . . . : Activé\
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activé
 
 
 
@@ -30,7 +30,7 @@
    Description. . . . . . . . . . . . . . : Killer E3100G 2.5 Gigabit Ethernet Controller\
    Adresse physique . . . . . . . . . . . : D8-BB-C1-B5-91-92\
    DHCP activé. . . . . . . . . . . . . . : Oui\
-   Configuration automatique activée. . . : Oui\
+   Configuration automatique activée. . . : Oui
 
 
 
