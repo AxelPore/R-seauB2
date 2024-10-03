@@ -37,3 +37,17 @@ Carte Ethernet Ethernet :
 ## II. Utiliser le réseau
 
 
+```
+PS C:\Users\axelp> ping 10.33.73.111
+
+Envoi d’une requête 'Ping'  10.33.73.111 avec 32 octets de données :
+Réponse de 10.33.73.111 : octets=32 temps<1ms TTL=128
+Réponse de 10.33.73.111 : octets=32 temps<1ms TTL=128
+Réponse de 10.33.73.111 : octets=32 temps<1ms TTL=128
+Réponse de 10.33.73.111 : octets=32 temps<1ms TTL=128
+
+Statistiques Ping pour 10.33.73.111:
+    Paquets : envoyés = 4, reçus = 4, perdus = 0 (perte 0%),
+Durée approximative des boucles en millisecondes :
+    Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
+```
