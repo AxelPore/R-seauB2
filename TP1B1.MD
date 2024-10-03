@@ -10,7 +10,7 @@
 
 **Carte réseau sans fil Wi-Fi :**
 
-   
+```   
    DHCP activé. . . . . . . . . . . . . . : Oui\
    Adresse IPv4. . . . . . . . . . . . . .: 10.33.73.111(préféré)\
    Masque de sous-réseau. . . . . . . . . : 255.255.240.0\
@@ -19,7 +19,7 @@
    Serveurs DNS. . .  . . . . . . . . . . : 8.8.8.8
                                        1.1.1.1\
    NetBIOS sur Tcpip. . . . . . . . . . . : Activé
-
+```
 
 
 
