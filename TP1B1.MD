@@ -16,8 +16,8 @@
    Masque de sous-réseau. . . . . . . . . : 255.255.240.0\
    Passerelle par défaut. . . . . . . . . : 10.33.79.254\
    Serveur DHCP . . . . . . . . . . . . . : 10.33.79.254\
-   Serveurs DNS. . .  . . . . . . . . . . : 8.8.8.8\
-                                       1.1.1.1
+   Serveurs DNS. . .  . . . . . . . . . . : 8.8.8.8
+                                       1.1.1.1\
    NetBIOS sur Tcpip. . . . . . . . . . . : Activé
 
 
