@@ -153,7 +153,43 @@ Addresses:  2a01:4f8:fff0:4f:266:37ff:feae:3bbc
           116.202.120.166
           116.202.120.165
 ```
+## IV. Network scanning et adresses IP
 
+```
+PS C:\Users\axelp> nmap.exe -sn -PR 10.33.64.0/20
+
+Nmap scan report for 10.33.66.78
+Host is up (0.17s latency).
+MAC Address: E4:B3:18:48:36:68 (Intel Corporate)
+Nmap scan report for 10.33.67.113
+Host is up (0.098s latency).
+MAC Address: D2:91:DE:DF:9A:6E (Unknown)
+Nmap scan report for 10.33.68.203
+Host is up (0.84s latency).
+MAC Address: AA:E3:0B:A8:53:8A (Unknown)
+Nmap scan report for 10.33.68.210
+Host is up (0.27s latency).
+MAC Address: 52:96:20:27:E8:9D (Unknown)
+```
+
+```
+Carte réseau sans fil Wi-Fi :
+
+   Suffixe DNS propre à la connexion. . . :
+   Description. . . . . . . . . . . . . . : Killer(R) Wi-Fi 6E AX1675i 160MHz Wireless Network Adapter (211NGW)
+   Adresse physique . . . . . . . . . . . : F0-57-A6-D2-8A-02
+   DHCP activé. . . . . . . . . . . . . . : Non
+   Configuration automatique activée. . . : Oui
+   Adresse IPv6 de liaison locale. . . . .: fe80::216:31f9:f43c:db6b%14(préféré)
+   Adresse IPv4. . . . . . . . . . . . . .: 10.33.64.26(préféré)
+   Masque de sous-réseau. . . . . . . . . : 255.255.240.0
+   Passerelle par défaut. . . . . . . . . : 10.33.79.254
+   IAID DHCPv6 . . . . . . . . . . . : 149968806
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-2D-47-E3-99-F0-57-A6-D2-8A-02
+   Serveurs DNS. . .  . . . . . . . . . . : 8.8.8.8
+                                       1.1.1.1
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activé
+```
 
 
 
