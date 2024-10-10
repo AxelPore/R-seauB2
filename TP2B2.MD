@@ -42,5 +42,8 @@ PING 10.1.2.12 (10.1.2.12) 56(84) bytes of data.
 rtt min/avg/max/mdev = 0.427/0.830/0.992/0.209 ms
 ```
 ```
-
+[aku2@localhost ~]$ traceroute 10.1.2.12
+traceroute to 10.1.2.12 (10.1.2.12), 30 hops max, 60 byte packets
+ 1  _gateway (10.1.1.254)  0.534 ms  0.501 ms  0.492 ms
+ 2  10.1.2.12 (10.1.2.12)  1.085 ms !X  1.395 ms !X  1.385 ms !X
 ```
